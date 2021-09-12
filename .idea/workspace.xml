@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9703054-dc85-4641-87eb-a9e42cfafbee" name="Default Changelist" comment="" />
+    <list default="true" id="d9703054-dc85-4641-87eb-a9e42cfafbee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,11 +29,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/versioned_docs/version-1.0" />
       <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
@@ -46,10 +50,42 @@
       <option name="presentableId" value="Default" />
       <updated>1631448322136</updated>
       <workItem from="1631448323278" duration="766000" />
+      <workItem from="1631449095930" duration="1290000" />
     </task>
+    <task id="LOCAL-00001" summary="change">
+      <created>1631449181496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631449181496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change">
+      <created>1631449217832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631449217832</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="76" key="CommitChangelistDialog2" timestamp="1631449217698">
+      <screen x="70" y="25" width="1850" height="1055" />
+    </state>
+    <state x="520" y="76" key="CommitChangelistDialog2/70.25.1850.1055@70.25.1850.1055" timestamp="1631449217698" />
+    <state x="495" y="212" key="Vcs.Push.Dialog.v2" timestamp="1631450474479">
+      <screen x="70" y="25" width="1850" height="1055" />
+    </state>
+    <state x="495" y="212" key="Vcs.Push.Dialog.v2/70.25.1850.1055@70.25.1850.1055" timestamp="1631450474479" />
   </component>
 </project>
